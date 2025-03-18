@@ -1,3 +1,3 @@
 # Weather-App
 A responsive weather app
-Click [![Live Demo](https://img.shields.io/badge/Live%20Demo-%230A66C2?style=for-the-badge&logo=github)](http://127.0.0.1:3000/Portfolio.html)
+Click [![Live Demo](https://img.shields.io/badge/Live%20Demo-%230A66C2?style=for-the-badge&logo=github)](https://simran-n17.github.io/Weather-App/)
